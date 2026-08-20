@@ -1,0 +1,19 @@
+# Generated build output
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+
+# Editor and operating-system files
+/.vs/
+/.vscode/
+/.idea/
+*.suo
+*.user
+Thumbs.db
+.DS_Store
